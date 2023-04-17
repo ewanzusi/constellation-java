@@ -1,6 +1,6 @@
 # Constellation
 
-This repository contains my Constellation java program created by me.
+This repository contains my Constellation java program created by me (Emmanuel Wanzusi).
 
 The program creates and draws a constellation on a 1600 x 800 canvas window with the command-line input provided from a user. 
 
